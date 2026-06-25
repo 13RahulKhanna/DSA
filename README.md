@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/13RahulKhanna/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/13RahulKhanna/DSA/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
