@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/13RahulKhanna/DSA/tree/master/0728-self-dividing-numbers) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/13RahulKhanna/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2523-closest-prime-numbers-in-range](https://github.com/13RahulKhanna/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Recursion
 |  |
 | ------- |
@@ -87,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/13RahulKhanna/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
