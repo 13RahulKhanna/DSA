@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/13RahulKhanna/DSA/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/13RahulKhanna/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/13RahulKhanna/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/13RahulKhanna/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/13RahulKhanna/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/13RahulKhanna/DSA/tree/master/2523-closest-prime-numbers-in-range) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/13RahulKhanna/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
