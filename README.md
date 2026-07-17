@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/13RahulKhanna/DSA/tree/master/0118-pascals-triangle) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1301-number-of-paths-with-max-score](https://github.com/13RahulKhanna/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/13RahulKhanna/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/13RahulKhanna/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/13RahulKhanna/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/13RahulKhanna/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/13RahulKhanna/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -182,9 +185,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/13RahulKhanna/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/13RahulKhanna/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
+## Hash Function
+|  |
+| ------- |
+| [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
 <!---LeetCode Topics End-->
