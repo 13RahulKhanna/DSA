@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/13RahulKhanna/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/13RahulKhanna/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/13RahulKhanna/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/13RahulKhanna/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/13RahulKhanna/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/13RahulKhanna/DSA/tree/master/1563-stone-game-v) |
 | [1664-ways-to-make-a-fair-array](https://github.com/13RahulKhanna/DSA/tree/master/1664-ways-to-make-a-fair-array) |
@@ -81,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/13RahulKhanna/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1386-cinema-seat-allocation](https://github.com/13RahulKhanna/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/13RahulKhanna/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/13RahulKhanna/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/13RahulKhanna/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/13RahulKhanna/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/13RahulKhanna/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/13RahulKhanna/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/13RahulKhanna/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/13RahulKhanna/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/13RahulKhanna/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/13RahulKhanna/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
