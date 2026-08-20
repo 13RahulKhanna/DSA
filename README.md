@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/13RahulKhanna/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/13RahulKhanna/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/13RahulKhanna/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/13RahulKhanna/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/1140-stone-game-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/13RahulKhanna/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/13RahulKhanna/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/13RahulKhanna/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/13RahulKhanna/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/13RahulKhanna/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/13RahulKhanna/DSA/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/13RahulKhanna/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/13RahulKhanna/DSA/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/13RahulKhanna/DSA/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/13RahulKhanna/DSA/tree/master/0877-stone-game) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/13RahulKhanna/DSA/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/13RahulKhanna/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/13RahulKhanna/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/13RahulKhanna/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/13RahulKhanna/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/13RahulKhanna/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/13RahulKhanna/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/13RahulKhanna/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/13RahulKhanna/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/13RahulKhanna/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/13RahulKhanna/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
