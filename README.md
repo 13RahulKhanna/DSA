@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/13RahulKhanna/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/13RahulKhanna/DSA/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/13RahulKhanna/DSA/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/13RahulKhanna/DSA/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/13RahulKhanna/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/13RahulKhanna/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/13RahulKhanna/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/13RahulKhanna/DSA/tree/master/0015-3sum) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/13RahulKhanna/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/13RahulKhanna/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
