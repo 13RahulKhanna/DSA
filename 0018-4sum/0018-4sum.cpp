@@ -1,13 +1,12 @@
 class Solution {
 public:
+    using ll = long long;
     int n;
     vector<vector<int>> ans;
 
-    void fn(vector<int>& nums, long long target, int i, int j, int k, int l){
+    void fn(vector<int>& nums, int target, int i, int j, int k, int l){
         if(j >= k) return;
-        long long sum = nums[i];
-        sum += nums[j];
-        sum += nums[k]; sum += nums[l];
+        long long sum = ll(nums[i]) + ll(nums[j]) + ll(nums[k]) + ll(nums[l]);
         if(sum == target){
             ans.push_back({nums[i], nums[j], nums[k], nums[l]});
             int x = nums[j], y = nums[k];
