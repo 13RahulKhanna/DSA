@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/13RahulKhanna/DSA/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/13RahulKhanna/DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/13RahulKhanna/DSA/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
@@ -362,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/13RahulKhanna/DSA/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/13RahulKhanna/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
