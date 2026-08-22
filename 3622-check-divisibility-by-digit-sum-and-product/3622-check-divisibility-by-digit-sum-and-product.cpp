@@ -10,8 +10,6 @@ public:
             n /= 10;
         }
 
-        sum += prod;
-        if(x % sum == 0) return true;
-        return false;
+        return x % (sum + prod) == 0 ? true : false;
     }
 };
