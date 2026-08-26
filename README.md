@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/13RahulKhanna/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/13RahulKhanna/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/13RahulKhanna/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/13RahulKhanna/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/13RahulKhanna/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/13RahulKhanna/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/13RahulKhanna/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/13RahulKhanna/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/13RahulKhanna/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/13RahulKhanna/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/13RahulKhanna/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/13RahulKhanna/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/13RahulKhanna/DSA/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/13RahulKhanna/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
@@ -385,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/13RahulKhanna/DSA/tree/master/0141-linked-list-cycle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
