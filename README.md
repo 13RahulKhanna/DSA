@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/13RahulKhanna/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/13RahulKhanna/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/13RahulKhanna/DSA/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/13RahulKhanna/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/13RahulKhanna/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/13RahulKhanna/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/13RahulKhanna/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/13RahulKhanna/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/13RahulKhanna/DSA/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/13RahulKhanna/DSA/tree/master/0290-word-pattern) |
 | [0647-palindromic-substrings](https://github.com/13RahulKhanna/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/13RahulKhanna/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/13RahulKhanna/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
