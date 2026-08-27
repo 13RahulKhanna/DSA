@@ -20,16 +20,13 @@ public:
         map<string, char> mp2;
         int ptr = 0; 
 
-        // for(auto it : words) cout << it << "x" << endl;
         for(auto it : pattern){
-            cout << it << endl;
             if(mp.find(it) != mp.end() && mp[it] != words[ptr]) return false;
             mp[it] = words[ptr++];
         }
-        
+
         ptr = 0;
         for(auto it : words){
-            cout << it << endl;
             if(mp2.find(it) != mp2.end() && mp2[it] != pattern[ptr]) return false;
             mp2[it] = pattern[ptr++];
         }
