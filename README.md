@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/13RahulKhanna/DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/13RahulKhanna/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/13RahulKhanna/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/13RahulKhanna/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0152-maximum-product-subarray) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/13RahulKhanna/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/13RahulKhanna/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/13RahulKhanna/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/13RahulKhanna/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/13RahulKhanna/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/13RahulKhanna/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/13RahulKhanna/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/13RahulKhanna/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/13RahulKhanna/DSA/tree/master/0220-contains-duplicate-iii) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/13RahulKhanna/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/13RahulKhanna/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/13RahulKhanna/DSA/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/13RahulKhanna/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/13RahulKhanna/DSA/tree/master/0680-valid-palindrome-ii) |
