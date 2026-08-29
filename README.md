@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/13RahulKhanna/DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/13RahulKhanna/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/13RahulKhanna/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/13RahulKhanna/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/13RahulKhanna/DSA/tree/master/0054-spiral-matrix) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/13RahulKhanna/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/13RahulKhanna/DSA/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/13RahulKhanna/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/13RahulKhanna/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/13RahulKhanna/DSA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/13RahulKhanna/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/13RahulKhanna/DSA/tree/master/1301-number-of-paths-with-max-score) |
