@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/13RahulKhanna/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/13RahulKhanna/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/13RahulKhanna/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/13RahulKhanna/DSA/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/13RahulKhanna/DSA/tree/master/0118-pascals-triangle) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/13RahulKhanna/DSA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/13RahulKhanna/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/13RahulKhanna/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/13RahulKhanna/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/13RahulKhanna/DSA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/13RahulKhanna/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/13RahulKhanna/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/13RahulKhanna/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
