@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/13RahulKhanna/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/13RahulKhanna/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/13RahulKhanna/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/13RahulKhanna/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/13RahulKhanna/DSA/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/13RahulKhanna/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/13RahulKhanna/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/13RahulKhanna/DSA/tree/master/0486-predict-the-winner) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/13RahulKhanna/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/13RahulKhanna/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/13RahulKhanna/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/13RahulKhanna/DSA/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/13RahulKhanna/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/13RahulKhanna/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/13RahulKhanna/DSA/tree/master/0876-middle-of-the-linked-list) |
