@@ -11,21 +11,12 @@
  */
 class Solution {
 public:
-    vector<int> a, b;
-    bool mirror(TreeNode* a, TreeNode* b){
-        if(!a && !b) return true;
-        if(!a || !b) return false;
-        if(a -> val != b -> val) return false;
-        
-        return mirror(a -> left, b -> right) && mirror(a -> right, b -> left);
-
+    bool fn(TreeNode* p, TreeNode* q){
+        if(!p && !q) return true;
+        if(!p || !q || p -> val != q -> val) return false;
+        return fn(p -> left, q -> right) & fn(p -> right, q -> left); 
     }
-
-
     bool isSymmetric(TreeNode* root) {
-        TreeNode* a = root -> left;
-        TreeNode* b = root -> right;
-        return mirror(a, b);
-
+        return fn(root, root);
     }
 };
