@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/13RahulKhanna/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/13RahulKhanna/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
 ## Stack
 |  |
@@ -478,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/13RahulKhanna/DSA/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
