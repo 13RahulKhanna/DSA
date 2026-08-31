@@ -24,21 +24,25 @@ public:
         while(next){
             if((head -> val < prev -> val && head -> val < next -> val) || (head -> val > prev -> val && head -> val > next -> val)){
                 if(first == -1) first = ptr;
-                if(st == -1) st = ptr;
+
+                if(st == -1) st = ptr;               
                 else if(cur == -1) cur = ptr;
                 else{
                     st = cur;
                     cur = ptr;
                 }
+
                 if(cur != -1) mn = min(mn, cur - st);
             }
+
             prev = head;
             head = next;
             next = next -> next;
             ptr++;
         }
+
         if(cur == -1) return {-1, -1};
-        // for(auto it : points) cout << it << endl;
+        
         return {mn, cur - first};
 
 
