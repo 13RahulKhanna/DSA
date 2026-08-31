@@ -12,7 +12,7 @@ class Solution {
 public:
     // 1 3 2 3 
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        int ptr = 1; vector<int> points;
+        int ptr = 1, first = -1, st = -1, cur = -1, mn = INT_MAX; 
 
         ListNode* prev = head;
         ListNode* next = head;
@@ -23,21 +23,23 @@ public:
 
         while(next){
             if((head -> val < prev -> val && head -> val < next -> val) || (head -> val > prev -> val && head -> val > next -> val)){
-                points.push_back(ptr);
+                if(first == -1) first = ptr;
+                if(st == -1) st = ptr;
+                else if(cur == -1) cur = ptr;
+                else{
+                    st = cur;
+                    cur = ptr;
+                }
+                if(cur != -1) mn = min(mn, cur - st);
             }
             prev = head;
             head = next;
             next = next -> next;
             ptr++;
         }
-        if(points.size() < 2) return {-1, -1};
+        if(cur == -1) return {-1, -1};
         // for(auto it : points) cout << it << endl;
-        int mn = INT_MAX;
-        for(int i = 1; i < points.size(); i++){
-            mn = min(mn, points[i] - points[i - 1]);
-        }
-
-        return {mn, points[points.size() - 1] - points[0]};
+        return {mn, cur - first};
 
 
     }
