@@ -16,9 +16,7 @@ public:
             }
         }
     }
-    int numIslands(vector<vector<char>>& grid) {
-        // 2 ways -> DFS and BFS
-
+    int dfs(vector<vector<char>>& grid){
         m = grid.size();
         n = grid[0].size();
         int ans = 0;
@@ -32,5 +30,11 @@ public:
             }
         }
         return ans;
+    }
+    int numIslands(vector<vector<char>>& grid) {
+        // 2 ways -> DFS and BFS
+        return dfs(grid);
+
+
     }
 };
