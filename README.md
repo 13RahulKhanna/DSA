@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/13RahulKhanna/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/13RahulKhanna/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/13RahulKhanna/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/13RahulKhanna/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/13RahulKhanna/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/13RahulKhanna/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/13RahulKhanna/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/13RahulKhanna/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/13RahulKhanna/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/13RahulKhanna/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/13RahulKhanna/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/13RahulKhanna/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/13RahulKhanna/DSA/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/13RahulKhanna/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/13RahulKhanna/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/13RahulKhanna/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
