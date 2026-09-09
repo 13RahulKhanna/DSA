@@ -9,8 +9,7 @@ public:
         // reduces O(2^n) complexity to O(n) itself
     }
     int climbStairs(int n) {     
-        if(n == 1) return 1;
-        if(n == 2) return 2;
+        if(n <= 2) return n;
         vector<int> dp(n + 1, -1); 
         return recursion(n, dp);
 
