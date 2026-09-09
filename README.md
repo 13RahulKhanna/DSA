@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/13RahulKhanna/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/13RahulKhanna/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/13RahulKhanna/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/13RahulKhanna/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/13RahulKhanna/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/13RahulKhanna/DSA/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/13RahulKhanna/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/13RahulKhanna/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/13RahulKhanna/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/13RahulKhanna/DSA/tree/master/0204-count-primes) |
@@ -517,5 +519,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/13RahulKhanna/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/13RahulKhanna/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
