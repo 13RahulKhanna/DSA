@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13RahulKhanna/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13RahulKhanna/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/13RahulKhanna/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/13RahulKhanna/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13RahulKhanna/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
