@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/13RahulKhanna/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/13RahulKhanna/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/13RahulKhanna/DSA/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/13RahulKhanna/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/13RahulKhanna/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/13RahulKhanna/DSA/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/13RahulKhanna/DSA/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/13RahulKhanna/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/13RahulKhanna/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/13RahulKhanna/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/13RahulKhanna/DSA/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/13RahulKhanna/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/13RahulKhanna/DSA/tree/master/0217-contains-duplicate) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/13RahulKhanna/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/13RahulKhanna/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/13RahulKhanna/DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/13RahulKhanna/DSA/tree/master/0290-word-pattern) |
 | [0647-palindromic-substrings](https://github.com/13RahulKhanna/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/13RahulKhanna/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -522,5 +526,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/13RahulKhanna/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/13RahulKhanna/DSA/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
