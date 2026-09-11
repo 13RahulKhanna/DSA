@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/13RahulKhanna/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/13RahulKhanna/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/13RahulKhanna/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/13RahulKhanna/DSA/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/13RahulKhanna/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/13RahulKhanna/DSA/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/13RahulKhanna/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/13RahulKhanna/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/13RahulKhanna/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/13RahulKhanna/DSA/tree/master/0189-rotate-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/13RahulKhanna/DSA/tree/master/0062-unique-paths) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/13RahulKhanna/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/13RahulKhanna/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/13RahulKhanna/DSA/tree/master/3312-sorted-gcd-pair-queries) |
