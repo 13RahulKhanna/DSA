@@ -19,7 +19,6 @@ public:
     }
 
     int totalNumbers(vector<int>& digits) {
-        st.clear();
         fn(digits, digits.size() - 1, -1, -1, -1);
         return st.size();
     }
