@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/13RahulKhanna/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/13RahulKhanna/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/13RahulKhanna/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13RahulKhanna/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/13RahulKhanna/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/13RahulKhanna/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/13RahulKhanna/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13RahulKhanna/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1664-ways-to-make-a-fair-array](https://github.com/13RahulKhanna/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/13RahulKhanna/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/13RahulKhanna/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/13RahulKhanna/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/13RahulKhanna/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/13RahulKhanna/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13RahulKhanna/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/13RahulKhanna/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/13RahulKhanna/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/13RahulKhanna/DSA/tree/master/2523-closest-prime-numbers-in-range) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/13RahulKhanna/DSA/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13RahulKhanna/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/13RahulKhanna/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/13RahulKhanna/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/13RahulKhanna/DSA/tree/master/3312-sorted-gcd-pair-queries) |
