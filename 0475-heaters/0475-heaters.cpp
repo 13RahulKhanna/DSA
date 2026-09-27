@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     int findRadius(vector<int>& houses, vector<int>& heaters) {
@@ -6,25 +5,21 @@ public:
         sort(heaters.begin(), heaters.end());
 
         int ans = 0;
+        for(int i = 0; i < houses.size(); i++){
+            int h = houses[i], local = INT_MAX;
+            
+            auto it = lower_bound(heaters.begin(), heaters.end(), h);
+            if(it != heaters.end()) local = min(local, *it - h);
 
-        for (int h : houses) {
-            auto it = lower_bound(
-                heaters.begin(), heaters.end(), h
-            );
+            if(it != heaters.begin()) local = min(local, h - *prev(it));
 
-            int dist = INT_MAX;
-
-            if (it != heaters.end()) {
-                dist = min(dist, abs(*it - h));
-            }
-
-            if (it != heaters.begin()) {
-                dist = min(dist, abs(*prev(it) - h));
-            }
-
-            ans = max(ans, dist);
+            ans = max(ans, local);
         }
 
         return ans;
+        
+
+
+
     }
 };
