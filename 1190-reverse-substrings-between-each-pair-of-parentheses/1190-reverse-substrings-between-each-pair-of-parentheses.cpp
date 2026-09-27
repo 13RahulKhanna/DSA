@@ -1,28 +1,30 @@
-class Solution { 
-public: 
-    string reverseParentheses(string s) { 
-        int n = s.size();
-        vector<int> pair(n);
+
+class Solution {
+public:
+    string reverseParentheses(string s) {
         stack<int> st;
-        for (int i = 0; i < n; ++i) {
-            if (s[i] == '(') st.push(i);
+        vector<pair<int,int>> brackets;
+
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] == '(') {
+                st.push(i);
+            }
             else if (s[i] == ')') {
-                int j = st.top(); st.pop();
-                pair[i] = j;
-                pair[j] = i;
+                brackets.push_back({st.top(), i});
+                st.pop();
             }
         }
-        string res;
-        int i = 0, dir = 1;
-        while (i >= 0 && i < n) {
-            if (s[i] == '(' || s[i] == ')') {
-                i = pair[i];
-                dir = -dir;
-            } else {
-                res += s[i];
-            }
-            i += dir;
+
+        for (auto [i, j] : brackets) {
+            reverse(s.begin() + i + 1, s.begin() + j);
         }
-        return res;
-    } 
+
+        string ans;
+        for (char c : s) {
+            if (c != '(' && c != ')')
+                ans += c;
+        }
+
+        return ans;
+    }
 };
