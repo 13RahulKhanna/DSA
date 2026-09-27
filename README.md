@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/13RahulKhanna/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/13RahulKhanna/DSA/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/13RahulKhanna/DSA/tree/master/0486-predict-the-winner) |
+| [0720-longest-word-in-dictionary](https://github.com/13RahulKhanna/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0835-image-overlap](https://github.com/13RahulKhanna/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/13RahulKhanna/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/13RahulKhanna/DSA/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/13RahulKhanna/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/13RahulKhanna/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1096-brace-expansion-ii](https://github.com/13RahulKhanna/DSA/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/13RahulKhanna/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/13RahulKhanna/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/13RahulKhanna/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/13RahulKhanna/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/13RahulKhanna/DSA/tree/master/0475-heaters) |
+| [0720-longest-word-in-dictionary](https://github.com/13RahulKhanna/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1096-brace-expansion-ii](https://github.com/13RahulKhanna/DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/13RahulKhanna/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/13RahulKhanna/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/13RahulKhanna/DSA/tree/master/0290-word-pattern) |
 | [0647-palindromic-substrings](https://github.com/13RahulKhanna/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/13RahulKhanna/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/13RahulKhanna/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0940-distinct-subsequences-ii](https://github.com/13RahulKhanna/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/13RahulKhanna/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/13RahulKhanna/DSA/tree/master/1096-brace-expansion-ii) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
+| [0720-longest-word-in-dictionary](https://github.com/13RahulKhanna/DSA/tree/master/0720-longest-word-in-dictionary) |
 ## Brute-Force Search
 |  |
 | ------- |
