@@ -5,7 +5,6 @@ public:
 
         if(i != word.size()){
             reverse(word.begin(), word.begin() + i + 1);
-            return word;
         }
         return word;
     }
