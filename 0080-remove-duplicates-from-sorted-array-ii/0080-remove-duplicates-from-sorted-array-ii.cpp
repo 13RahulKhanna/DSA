@@ -14,10 +14,7 @@ public:
                     left++;
                     nums[left] = nums[right];
                 }
-                else {
-                    right++;
-                    continue;
-                }
+
             }
             else {
                 freq = 1;
