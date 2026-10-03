@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/13RahulKhanna/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/13RahulKhanna/DSA/tree/master/0062-unique-paths) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/13RahulKhanna/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/13RahulKhanna/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/13RahulKhanna/DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/13RahulKhanna/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/13RahulKhanna/DSA/tree/master/1096-brace-expansion-ii) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/13RahulKhanna/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/13RahulKhanna/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
