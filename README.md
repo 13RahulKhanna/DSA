@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/13RahulKhanna/DSA/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/13RahulKhanna/DSA/tree/master/1096-brace-expansion-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/13RahulKhanna/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/13RahulKhanna/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/13RahulKhanna/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/13RahulKhanna/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/13RahulKhanna/DSA/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/13RahulKhanna/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/13RahulKhanna/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/13RahulKhanna/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/13RahulKhanna/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/13RahulKhanna/DSA/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1162-as-far-from-land-as-possible](https://github.com/13RahulKhanna/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/13RahulKhanna/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/13RahulKhanna/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/13RahulKhanna/DSA/tree/master/1510-stone-game-iv) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/13RahulKhanna/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/13RahulKhanna/DSA/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/13RahulKhanna/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/13RahulKhanna/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/13RahulKhanna/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/13RahulKhanna/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
