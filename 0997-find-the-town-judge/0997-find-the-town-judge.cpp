@@ -1,20 +1,17 @@
 class Solution {
 public:
     int findJudge(int n, vector<vector<int>>& trust) {
-        vector<bool> v(n+1,false);
-        vector<vector<int>> adj(n+1);
-        for(auto it : trust){
-            v[it[0]] = true;
-            adj[it[1]].push_back(it[0]);
+        vector<int> v(n+1,0);
+        for(auto& it : trust){
+            v[it[0]]--; v[it[1]]++;
         }
 
-
+        for(int i = 1; i <= n; i++){
+            if(v[i] == n - 1) return i;
+        }
         // 1 -> 2 3
         // 3 -> 1 2
-        for(int i = 1;i<=n;i++){
-            if(v[i]) continue;
-            if(adj[i].size() == n-1) return i;
-        }
+
         return -1;
     }
 };
