@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13RahulKhanna/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13RahulKhanna/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/13RahulKhanna/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/13RahulKhanna/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/13RahulKhanna/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/13RahulKhanna/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/13RahulKhanna/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/13RahulKhanna/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/13RahulKhanna/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/13RahulKhanna/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/13RahulKhanna/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13RahulKhanna/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/13RahulKhanna/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/13RahulKhanna/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/13RahulKhanna/DSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/13RahulKhanna/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -295,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/13RahulKhanna/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/13RahulKhanna/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/13RahulKhanna/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13RahulKhanna/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/13RahulKhanna/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/13RahulKhanna/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -326,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/13RahulKhanna/DSA/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13RahulKhanna/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/13RahulKhanna/DSA/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/13RahulKhanna/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -448,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/13RahulKhanna/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/13RahulKhanna/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/13RahulKhanna/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -642,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/13RahulKhanna/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/13RahulKhanna/DSA/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/13RahulKhanna/DSA/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Trie
 |  |
 | ------- |
@@ -700,4 +709,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/13RahulKhanna/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/13RahulKhanna/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
