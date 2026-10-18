@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/13RahulKhanna/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/13RahulKhanna/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/13RahulKhanna/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/13RahulKhanna/DSA/tree/master/0827-making-a-large-island) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/13RahulKhanna/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/13RahulKhanna/DSA/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/13RahulKhanna/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/13RahulKhanna/DSA/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/13RahulKhanna/DSA/tree/master/0841-keys-and-rooms) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/13RahulKhanna/DSA/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/13RahulKhanna/DSA/tree/master/0827-making-a-large-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/13RahulKhanna/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/13RahulKhanna/DSA/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/13RahulKhanna/DSA/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/13RahulKhanna/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/13RahulKhanna/DSA/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/13RahulKhanna/DSA/tree/master/0997-find-the-town-judge) |
