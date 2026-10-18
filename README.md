@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/13RahulKhanna/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0827-making-a-large-island](https://github.com/13RahulKhanna/DSA/tree/master/0827-making-a-large-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13RahulKhanna/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/13RahulKhanna/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/13RahulKhanna/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/13RahulKhanna/DSA/tree/master/0226-invert-binary-tree) |
+| [0827-making-a-large-island](https://github.com/13RahulKhanna/DSA/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/13RahulKhanna/DSA/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/13RahulKhanna/DSA/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/13RahulKhanna/DSA/tree/master/1162-as-far-from-land-as-possible) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/13RahulKhanna/DSA/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/13RahulKhanna/DSA/tree/master/0486-predict-the-winner) |
 | [0720-longest-word-in-dictionary](https://github.com/13RahulKhanna/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0827-making-a-large-island](https://github.com/13RahulKhanna/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/13RahulKhanna/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/13RahulKhanna/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/13RahulKhanna/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
+| [0827-making-a-large-island](https://github.com/13RahulKhanna/DSA/tree/master/0827-making-a-large-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/13RahulKhanna/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/13RahulKhanna/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/13RahulKhanna/DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/13RahulKhanna/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/13RahulKhanna/DSA/tree/master/0200-number-of-islands) |
+| [0827-making-a-large-island](https://github.com/13RahulKhanna/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/13RahulKhanna/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/13RahulKhanna/DSA/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/13RahulKhanna/DSA/tree/master/1162-as-far-from-land-as-possible) |
