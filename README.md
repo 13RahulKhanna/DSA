@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/13RahulKhanna/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/13RahulKhanna/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/13RahulKhanna/DSA/tree/master/1406-stone-game-iii) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/13RahulKhanna/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/13RahulKhanna/DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/13RahulKhanna/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/13RahulKhanna/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/13RahulKhanna/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/13RahulKhanna/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/13RahulKhanna/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/13RahulKhanna/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/13RahulKhanna/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/13RahulKhanna/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/13RahulKhanna/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/13RahulKhanna/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/13RahulKhanna/DSA/tree/master/1510-stone-game-iv) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/13RahulKhanna/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/13RahulKhanna/DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/13RahulKhanna/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/13RahulKhanna/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/13RahulKhanna/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/13RahulKhanna/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/13RahulKhanna/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/13RahulKhanna/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/13RahulKhanna/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/13RahulKhanna/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/13RahulKhanna/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/13RahulKhanna/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/13RahulKhanna/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/13RahulKhanna/DSA/tree/master/1510-stone-game-iv) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/13RahulKhanna/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/13RahulKhanna/DSA/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
