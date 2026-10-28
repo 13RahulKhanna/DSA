@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/13RahulKhanna/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/13RahulKhanna/DSA/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/13RahulKhanna/DSA/tree/master/0486-predict-the-winner) |
+| [0658-find-k-closest-elements](https://github.com/13RahulKhanna/DSA/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/13RahulKhanna/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0827-making-a-large-island](https://github.com/13RahulKhanna/DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/13RahulKhanna/DSA/tree/master/0835-image-overlap) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/13RahulKhanna/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/13RahulKhanna/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/13RahulKhanna/DSA/tree/master/0475-heaters) |
+| [0658-find-k-closest-elements](https://github.com/13RahulKhanna/DSA/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/13RahulKhanna/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1096-brace-expansion-ii](https://github.com/13RahulKhanna/DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/13RahulKhanna/DSA/tree/master/1288-remove-covered-intervals) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/13RahulKhanna/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/13RahulKhanna/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0658-find-k-closest-elements](https://github.com/13RahulKhanna/DSA/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/13RahulKhanna/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/13RahulKhanna/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/13RahulKhanna/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/13RahulKhanna/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/13RahulKhanna/DSA/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/13RahulKhanna/DSA/tree/master/0475-heaters) |
+| [0658-find-k-closest-elements](https://github.com/13RahulKhanna/DSA/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/13RahulKhanna/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/13RahulKhanna/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/13RahulKhanna/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/13RahulKhanna/DSA/tree/master/0658-find-k-closest-elements) |
 | [1631-path-with-minimum-effort](https://github.com/13RahulKhanna/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/13RahulKhanna/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/13RahulKhanna/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -572,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/13RahulKhanna/DSA/tree/master/0189-rotate-array) |
 | [0475-heaters](https://github.com/13RahulKhanna/DSA/tree/master/0475-heaters) |
 | [0647-palindromic-substrings](https://github.com/13RahulKhanna/DSA/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/13RahulKhanna/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/13RahulKhanna/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/13RahulKhanna/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/13RahulKhanna/DSA/tree/master/1147-longest-chunked-palindrome-decomposition) |
