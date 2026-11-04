@@ -1,15 +1,22 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        int mx = 0;
-        for(auto it : nums){
-            mx = max(mx, it);
+        // 1. find the biggest number
+        int big = nums[0];
+        for(int i = 0; i < nums.size(); i++){
+            if(nums[i] > big){
+                big = nums[i];
+            }
         }
-        int ans = 0;
-        for(auto it : nums){
-            ans += mx - it;
+
+        // 2. subtract each number by the biggest number
+        // 3. add all the subtracted values
+        int sum = 0;
+
+        for(int i = 0; i < nums.size(); i++){
+            sum = sum + (big - nums[i]);
         }
-        return ans;
+        return sum;
     }
 };
 
