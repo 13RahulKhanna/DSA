@@ -1,17 +1,18 @@
 class Solution {
 public:
     int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
-        sort(arr2.begin(), arr2.end());
-
-        int ans = 0;
-
-        for (int x : arr1) {
-            auto it = lower_bound(arr2.begin(), arr2.end(), x - d);
-
-            if (it == arr2.end() || *it > x + d)
-                ans++;
+        int cnt = 0;
+        for (auto& x : arr1) {
+            bool ok = true;
+            for (auto& y : arr2) {
+                ok &= (abs(x - y) > d);
+            }
+            cnt += ok;
         }
-
-        return ans;
+        return cnt;
     }
 };
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
