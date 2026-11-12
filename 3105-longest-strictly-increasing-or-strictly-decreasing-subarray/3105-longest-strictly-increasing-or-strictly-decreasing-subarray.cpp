@@ -1,20 +1,11 @@
 class Solution {
 public:
-    int longestMonotonicSubarray(vector<int>& nums) {
+    int check(vector<int>& nums, bool sign){
         int n = nums.size(),ans = 1,local = 1;
+        int x = -1;
+        if(sign) x = 1;
         for(int i = 1; i < n; i++){
-            if(nums[i] <= nums[i - 1]){
-                ans = max(ans, local);
-                local = 1;
-            }
-            else{
-                local++;
-            }
-        }
-        ans = max(local, ans);
-        local = 1;
-        for(int i = 1; i < n; i++){
-            if(nums[i] >= nums[i - 1]){
+            if(x * nums[i] <= x * nums[i - 1]){
                 ans = max(ans, local);
                 local = 1;
             }
@@ -22,7 +13,34 @@ public:
                 local++;
             }
         }  
-        return max(ans, local);      
+        return max(ans, local);     
+    }
+    int longestMonotonicSubarray(vector<int>& nums) {
+        // int n = nums.size(),ans = 1,local = 1;
+        // for(int i = 1; i < n; i++){
+        //     if(nums[i] <= nums[i - 1]){
+        //         ans = max(ans, local);
+        //         local = 1;
+        //     }
+        //     else{
+        //         local++;
+        //     }
+        // }
+        int ans = 1;
+        ans = max(ans,check(nums,false));
+        ans = max(ans, check(nums,true));
+        // ans = max(local, ans);
+        // local = 1;
+        // for(int i = 1; i < n; i++){
+        //     if(nums[i] >= nums[i - 1]){
+        //         ans = max(ans, local);
+        //         local = 1;
+        //     }
+        //     else{
+        //         local++;
+        //     }
+        // }  
+        return ans;      
     }
 };
 
