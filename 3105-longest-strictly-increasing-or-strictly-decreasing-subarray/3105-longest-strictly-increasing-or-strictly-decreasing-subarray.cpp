@@ -17,8 +17,8 @@ public:
     }
     int longestMonotonicSubarray(vector<int>& nums) {
         int ans = 1;
-        ans = max(ans,check(nums,false));
-        ans = max(ans, check(nums,true));
+        ans = max(ans,check(nums,0));
+        ans = max(ans, check(nums,1));
         return ans;      
     }
 };
