@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int minimizeSum(vector<int>& nums) {
+        // bring extremes closer
+        sort(nums.begin(), nums.end());
+        int n = nums.size();
+        if(n <= 3) return 0;
+        int ans = INT_MAX;
+        ans = min(ans, nums[n - 3] - nums[0]);
+        ans = min(ans, nums[n - 2] - nums[1]);
+        ans = min(ans, nums[n - 1] - nums[2]);
+        return ans;        
+    }
+};
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
