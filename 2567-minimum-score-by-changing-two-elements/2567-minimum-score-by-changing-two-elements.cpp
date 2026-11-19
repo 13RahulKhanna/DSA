@@ -2,6 +2,7 @@ class Solution {
 public:
     int minimizeSum(vector<int>& nums) {
         // bring extremes closer
+        if(nums.size() <= 3) return 0;       
         int mn = INT_MAX, mn2 = INT_MAX, mn3 = INT_MAX;
         int mx = INT_MIN, mx2 = INT_MIN, mx3 = INT_MIN;
         for(int i = 0; i < nums.size(); i++){
@@ -30,16 +31,7 @@ public:
                 mx3 = nums[i];
             }          
         }
-        
-        // cout << mn << endl << mn2 << endl << mx << endl << mx2;
-        // sort(nums.begin(), nums.end());
-        int n = nums.size();
-        if(n <= 3) return 0;
-        int ans = INT_MAX;
-        ans = min(ans, mx3 - mn);
-        ans = min(ans, mx2 - mn2);
-        ans = min(ans, mx - mn3);
-        return ans;        
+        return min(mx2 - mn2, min(mx3 - mn, mx - mn3));
     }
 };
 
